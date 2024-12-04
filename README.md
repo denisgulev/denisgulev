@@ -22,7 +22,7 @@ I'm **Denis Gulev**, a passionate Software Engineer with over **4+ years of expe
 -->
 ## 🌱 Connect with Me
 
-- 📫 **[Email](denis.gulev@gmail.com)**
+- 📫 **[Email](mailto:denis.gulev@gmail.com)**
 - 💼 **[LinkedIn](https://linkedin.com/in/denisgulev/)**
 - 🌐 **[Blog](https://denisgulev.com)**
 
