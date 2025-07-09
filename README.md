@@ -27,9 +27,6 @@ I'm **Denis Gulev**, a passionate Software Engineer with over **4+ years of expe
 - 💼 **[LinkedIn](https://linkedin.com/in/denisgulev/)**
 - 🌐 **[Blog](https://denisgulev.com)**
 
----
-
-Looking forward to connecting and collaborating with like-minded developers and innovators!
 
 <!--
 **denisgulev/denisgulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
